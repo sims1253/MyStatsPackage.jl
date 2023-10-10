@@ -24,4 +24,4 @@ jobs:
               @error "Some files have not been formatted"
               write(stdout, out)
               exit(1)
-          end'     
+          end'
